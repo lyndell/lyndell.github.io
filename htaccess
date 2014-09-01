@@ -1,0 +1,15 @@
+---
+layout: none
+permalink: .htaccess
+---
+#
+#Redirect permanent /temp /temperature/
+#
+
+RedirectMatch gone /code*
+
+ErrorDocument 403 "nope, NOT ALLOWED!"
+ErrorDocument 404 "Wopps, not finding that one"
+ErrorDocument 410 "That has been removed"
+
+
