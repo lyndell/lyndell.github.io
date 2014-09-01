@@ -1,0 +1,12 @@
+# Site settings
+title: Nuclear Powered Brain
+#email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  The Nuclear Powered Brain:  Fueled by chili and cooled by beer.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://nuclearpoweredbrain.com" # the base hostname & protocol for your site
+#twitter_username: LyndellUS
+#github_username:  lyndell
+
+# Build settings
+markdown: kramdown

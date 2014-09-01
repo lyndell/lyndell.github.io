@@ -1,0 +1,7 @@
+Options +Indexes
+IndexIgnore HEADER.html README.html
+
+HeaderName HEADER.html
+ReadmeName README.html
+
+
