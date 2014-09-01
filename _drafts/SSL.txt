@@ -1,0 +1,13 @@
+http://www.startssl.com/
+
+Price: Free
+Issuance: less than 10 minutes
+Seal: yes
+Warranty: $10,000
+Wildcard: no
+Refund: not applicable
+
+My Recommendation - Limted Use
+This is a fine certificate for the price, but I can't recommend it for anything but testing or some privacy protection. They don't do any verification beyond email address and the domain name, so they aren't good for ecommerce. If you plan to sell something on your site, you should use a paid service.
+
+http://webdesign.about.com/od/ssl/tp/cheapest-ssl-certificates.htm

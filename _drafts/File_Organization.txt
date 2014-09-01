@@ -1,0 +1,6 @@
+* New folder for projects
+* Projects that are a single file, thought, should be a single file.  
+
+* Once a project is completed, move to the Archive
+* Only current projects not in the Archive
+

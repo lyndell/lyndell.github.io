@@ -1,0 +1,7 @@
+# Syncing PDF to iBooks on Mac
+
+Manual
+
+Most effective to open in Dropbox, then use Dropbox to open in iBooks.
+
+Note: only meta data, collections...

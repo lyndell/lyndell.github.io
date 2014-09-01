@@ -1,0 +1,20 @@
+# iOS Security
+
+[Apple - Apple’s Commitment to Customer Privacy](https://www.apple.com/apples-commitment-to-customer-privacy/)
+
+> For example, conversations which take place over iMessage and FaceTime are protected by end-to-end encryption so no one but the sender and receiver can see or read them. Apple cannot decrypt that data. Similarly, we do not store data related to customers’ location, Map searches or Siri requests in any identifiable form.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+[Cops to Congress: We need logs of Americans' text messages - CNET](http://www.cnet.com/news/cops-to-congress-we-need-logs-of-americans-text-messages/)
+
+[Untappable Apple or DEA Disinformation? | Cato @ Liberty](http://www.cato.org/blog/untappable-apple-or-dea-disinformation)
+
+[US DEA upset it can't break Apple's iMessage encryption](http://appleinsider.com/articles/13/04/04/us-dea-upset-it-cant-break-apples-imessage-encryption)
+
