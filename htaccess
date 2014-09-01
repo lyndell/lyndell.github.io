@@ -7,6 +7,9 @@ permalink: .htaccess
 #
 
 RedirectMatch gone /code*
+RedirectMatch gone /geo*
+RedirectMatch gone /temp*
+
 
 ErrorDocument 403 "nope, NOT ALLOWED!"
 ErrorDocument 404 "Wopps, not finding that one"

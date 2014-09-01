@@ -1,0 +1,6 @@
+[submodule "sabbath"]
+	path = sabbath
+	url = git@github.com:lyndell/SabbathMode.git
+[submodule "_posts/VBox"]
+	path = _posts/VBox
+	url = ./_posts/VBox/
