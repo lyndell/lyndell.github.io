@@ -30,7 +30,12 @@ See the top few lines from `top`.
 
     top -bn1 | head -n15
 
+Long list files reverse sorted by time, with human readable units:
+
     ls -lrth
+
+Long list files reverse sorted by size, with human readable units:
+
     ls -lrSh
 
 
