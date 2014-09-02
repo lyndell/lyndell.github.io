@@ -3,14 +3,19 @@
 
   {% include head.html %}
 
-  <body>
+  <BODY class="wrap">
+    <DIV class="grid animated fadeInLeft">
+      <nav class="unit one-fifth">
+        <P> &nbsp; </P>
+      </nav>
 
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
+      <main class="unit three-fifths">
         {{ content }}
-      </div>
+      </main>
+
+      <aside class="unit one-fifth">
+        <P> &nbsp; </P>
+      </aside>
     </div>
 
     {% include footer.html %}
