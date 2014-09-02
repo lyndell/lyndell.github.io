@@ -1,3 +1,9 @@
+---
+layout: post
+title:  How to log into SSH
+categories: how-to
+published: false
+---
 
 # Mac OS X
 
@@ -21,6 +27,5 @@ Choose the .exe version of putty.  It's easy to install, and start using.  Doubl
 ![Putty](putty.png "Putty")
 
 
+Once you have logged in,you can peruse an [introduction to SSH](http://blog.softlayer.com/2011/unix-sysadmin-boot-camp-an-intro-to-ssh/) and other related articles on the SoftLayer [blog](http://blog.softlayer.com/tag/ssh/). and [Knowledgelayer](http://knowledgelayer.softlayer.com/).
 
-Once you have logged in,you can peruse an [introduction to SSH](http://blog.softlayer.com/2011/unix-sysadmin-boot-camp-an-intro-to-ssh/) and other related articles on the SoftLayer [blog](http://blog.softlayer.com/tag/ssh/). and (Kn
-http://knowledgelayer.softlayer.com/
