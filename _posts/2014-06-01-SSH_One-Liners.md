@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  SSH One-Liners
+excerpt:   Commands I often use in SSH
 categories: tips
 ---
 

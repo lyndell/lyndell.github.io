@@ -1,7 +1,0 @@
-
-
-(07:04:09 PM) wnormand: In case it never occurs to anyone, make life easier with not having to put root@ all the time when you SSH
-$ cat ~/.ssh/config
-Host *
-  User root
-
