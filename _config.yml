@@ -12,3 +12,8 @@ github_username:  LyndellUS
 
 # Build settings
 markdown: kramdown
+
+# Github Flavored Markdown
+kramdown:
+  input: GFM
+
