@@ -10,3 +10,9 @@ url: "http://nuclearpoweredbrain.com" # the base hostname & protocol for your si
 
 # Build settings
 markdown: kramdown
+
+# Github Flavored Markdown
+kramdown:
+  input: GFM
+
+
