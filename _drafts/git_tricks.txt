@@ -1,0 +1,72 @@
+
+
+git remote add office ssh://username@hostname:2222/home/bram/.repository
+So this adds a remote repository behind port 2222 of the host, immediately followed by the remote path of the repository. The ssh:// part is crucial and forgetting this part has cost already some minutes of my life.
+
+http://www.bramschoenmakers.nl/en/node/720
+
+
+
+
+=====================
+
+vi ~/.ssh/config
+Host alan-zhang.com
+	Port 22
+
+
+
+
+git remote set-url origin ssh://user@site.com:321/home/user/repo
+
+http://blog.alan-zhang.com/custom-git-ssh-port
+
+
+
+=====================
+
+
+Changing a remote's URL
+The git remote set-url command changes an existing remote repository URL.
+
+The git remote set-url command takes two arguments:
+
+An existing remote name, for example, origin
+A new URL for the remote, for example:
+https://github.com/user/repo2.git if you're updating to use HTTPS
+git@github.com:user/repo2.git if you're updating to use SSH
+For example:
+
+git remote -v
+# View existing remotes
+# origin  https://github.com/user/repo.git (fetch)
+# origin  https://github.com/user/repo.git (push)
+
+git remote set-url origin https://github.com/user/repo2.git
+# Change the 'origin' remote's URL
+
+git remote -v
+# Verify new remote URL
+# origin  https://github.com/user/repo2.git (fetch)
+# origin  https://github.com/user/repo2.git (push)
+
+
+
+
+
+
+https://help.github.com/articles/changing-a-remote-s-url
+
+
+=====================
+
+
+
+
+=====================
+
+
+
+
+=====================
+

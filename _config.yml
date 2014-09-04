@@ -9,4 +9,12 @@ url: "http://nuclearpoweredbrain.com" # the base hostname & protocol for your si
 #github_username:  lyndell
 
 # Build settings
+#
+
+
+# Conversion
 markdown: kramdown
+highlighter: pygments
+excerpt_separator: "* * *"
+
+

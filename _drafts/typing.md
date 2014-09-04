@@ -1,21 +1,25 @@
 ---
-layout: post
-tags: tips
-title: degree symbol
+layout:  post
+tags:    tips
+title:   Typing Symbols
+excerpt: How to type frequent non-ASCII characters.
 ---
 
-How to type frequent non-ASCII characters.
+# Cent
 
-* * *
+Hold down the Option key and press 4
+
+[How to type cent sign](http://www.howtotype.net/symbol/cent_sign/)
+
 
 To type the "°" (degree) symbol on:
 
-# iOS
+## iOS
 
 press and hold the "0" (zero) key.  From [iOS: Finding the Elusive Degree Symbol - The Mac Observer](http://www.macobserver.com/tmo/article/ios-the-elusive-degree-symbol)
 
 > Tap and hold on the zero key, and you'll be presented with a little key pop-up that gives you the option. Just slide your finger over to the left until the degree symbol is highlighted...
 
-# Mac
+## Mac
 
 Type alt+shift+8.
