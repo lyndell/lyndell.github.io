@@ -10,6 +10,8 @@ url: "http://Lyndell.US" # the base hostname & protocol for your site
 twitter_username: lyndell
 github_username:  LyndellUS
 
+encoding: US-ASCII
+
 # Build settings
 markdown: kramdown
 
