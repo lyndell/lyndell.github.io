@@ -2,9 +2,11 @@
 layout: default
 ---
 
-<H1>Lyndell.US</H1>
-<H3>Howdy! </H3> 
-<P>I am Lyndell Rottmann.  I like to program. </P>
+# Lyndell.US
+
+### Howdy!
+
+I am Lyndell Rottmann.  I like to program. 
 
 &nbsp;
 
