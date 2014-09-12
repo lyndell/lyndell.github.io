@@ -12,13 +12,13 @@ kramdown:
 title:            Nuclear Powered Brain
 tagline:          "Fueled by chili and cooled by beer."
 description:      "The Nuclear Powered Brain:  Fueled by chili and cooled by beer."
-baseurl:          "" # the subpath of your site, e.g. /blog/
+baseurl:          "/" # the subpath of your site, e.g. /blog/
 url:              "http://nuclearpoweredbrain.com" # the base hostname & protocol for your site
 paginate:         5
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Lyndell'
+  url:            https://twitter.com/LyndellNET
   #email:         your-email@domain.com
   #twitter_username: LyndellUS
   #github_username:  lyndell
@@ -27,4 +27,4 @@ author:
 version:          3.0.0
 
 github:
-#  repo:           https://github.com/poole/lanyon
+#  repo:           https://github.com/lyndell
