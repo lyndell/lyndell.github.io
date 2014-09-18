@@ -4,3 +4,6 @@
 [submodule "_posts/VBox"]
 	path = _posts/VBox
 	url = ./_posts/VBox/
+[submodule "chili"]
+	path = chili
+	url = git@bitbucket.org:lyndell/chili.git
