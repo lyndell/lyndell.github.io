@@ -14,19 +14,19 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 
 # Site settings
-title:            Nuclear Powered Brain
-tagline:          "Fueled by chili and cooled by beer."
-description:      "The Nuclear Powered Brain:  Fueled by chili and cooled by beer."
-baseurl:          "/" # the subpath of your site, e.g. /blog/
-url:              "http://nuclearpoweredbrain.com" # the base hostname & protocol for your site
+title:            Lyndell.US
+tagline:          ""
+description:      "I am Lyndell Rottmann. I like to program."
+baseurl:          "" # the subpath of your site, e.g. /blog/
+url:              "http://Lyndell.US" # the base hostname & protocol for your site
 paginate:         5
 
 author:
   name:           'Lyndell'
-  url:            https://twitter.com/LyndellNET
-  #email:         your-email@domain.com
-  #twitter_username: LyndellUS
-  #github_username:  lyndell
+  url:            http://Lyndell.US/
+  email:          web@Lyndell.US
+  twitter_username: LyndellNET
+  github_username:  lyndell
 
 # Custom vars
 version:          3.0.0
