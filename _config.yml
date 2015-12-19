@@ -17,7 +17,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 title:            Lyndell.US
 tagline:          ""
 description:      "I am Lyndell Rottmann. I like to program."
-baseurl:          "" # the subpath of your site, e.g. /blog/
+baseurl:          "/" # the subpath of your site, e.g. /blog/
 url:              "http://Lyndell.US" # the base hostname & protocol for your site
 paginate:         5
 
